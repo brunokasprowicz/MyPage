@@ -30,3 +30,8 @@ h1{
 li{
   list-style-type: none;
   }
+.github_link{
+  font-size: 30px;
+  margin: 10px;
+  color: black;
+}
