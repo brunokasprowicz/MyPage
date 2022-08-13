@@ -1,0 +1,32 @@
+body{
+  background-image: url(https://cdn.pixabay.com/photo/2016/03/26/13/09/workspace-1280538_960_720.jpg);
+  background-size: cover;
+}
+h1{
+  text-align: center;
+  color: #fff;
+  padding: 100px;
+  font-family: 'Oswald', sans-serif;
+  }
+.text{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  color: #fff;
+  }
+.contact{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  color: #fff;
+  }
+.whatsapp-link{
+  width:60px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px;
+  color: #33ff33;
+  text-align: center;
+  font-size: 30px;
+  }
+li{
+  list-style-type: none;
+  }
